@@ -1,2 +1,3 @@
 Draft PR highlights
 Record HR initiatives
+Unify error handling across login and signup
